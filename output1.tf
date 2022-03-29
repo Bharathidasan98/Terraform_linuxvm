@@ -1,4 +1,4 @@
 output "rgid" {
   description = "output_value"
-  value       = module.RG
+  value       = module.Rg
 }
